@@ -55,7 +55,7 @@ The following are the most commonly used selectors:
 * Pseudo Classes `:pseudo_classes`
 * Pseudo Elements `::pseudo_elements`
 
-You can extend or narrow the reach of the properties of a block by combining a few selectors together. Here are some notable xamples:
+You can extend or narrow the reach of the properties of a block by combining a few selectors together. Here are some notable examples:
 ### `element#id.classname[name=value]:pseudo-classes::pseudo-elements`
 You can narrow down your selector by combining them in the order of:
 1. Element
@@ -95,7 +95,7 @@ Media queries are used to change styling of the website based on the additional 
 ## Part 4: Centering Elements
 Centering elements are different for several cases, depending on if you want to vertically or horizontally center elements, and what display property the element has.
 
-[http://howtocenterincss.com/](http://howtocenterincss.com/
+[http://howtocenterincss.com/](http://howtocenterincss.com/)
 
 ## Part 5: Libraries to Consider in your Project
 * `normalize.css` [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/)
